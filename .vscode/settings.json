@@ -3,6 +3,7 @@
         "figsize",
         "kdeplot",
         "powerlaw",
-        "tensorflow"
+        "tensorflow",
+        "yticks"
     ]
 }
